@@ -31,24 +31,6 @@ The project demonstrates the process of transforming real-world application requ
 
 
 
-### 📂 Project Structure
-
-
-Telegram-Relational-Database-Case-Study/
-│
-├── README.md
-├── Telegram_Case_Study_Report.pdf
-├── Telegram_Case_Study_Presentation.pptx
-├── ER_Diagram.png
-├── Relational_Schema.png
-├── SQL_Schema.sql
-└── images/
-    ├── telegram_logo.png
-    └── cover_page.png
-
-
-
-
 ### 🗄️ Database Entities
 
 The database consists of the following major entities:
