@@ -1,8 +1,8 @@
-# Telegram_Relational_DB_Case_Study.docx
+## Telegram_Relational_DB_Case_Study.docx
 A relational database design project for Telegram, including database schema, ER diagram, normalization, SQL implementation, and relationship analysis.
 # 📱 Telegram Relational Database Case Study
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 This project presents a relational database design for **Telegram**, one of the world's leading cloud-based messaging platforms. The database schema models Telegram's core functionalities, including user management, chats, messages, channels, groups, bots, files, and reactions.
 
@@ -10,7 +10,7 @@ The project demonstrates the process of transforming real-world application requ
 
 
 
-## 🎯 Objectives
+### 🎯 Objectives
 
 * Design a scalable relational database for Telegram.
 * Identify entities, attributes, and relationships.
@@ -21,7 +21,7 @@ The project demonstrates the process of transforming real-world application requ
 
 
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 * Draw.io (ER Diagram)
 * MySQL
@@ -31,7 +31,7 @@ The project demonstrates the process of transforming real-world application requ
 
 
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 
 Telegram-Relational-Database-Case-Study/
@@ -49,7 +49,7 @@ Telegram-Relational-Database-Case-Study/
 
 
 
-## 🗄️ Database Entities
+### 🗄️ Database Entities
 
 The database consists of the following major entities:
 
@@ -70,7 +70,7 @@ Each entity contains appropriate attributes and relationships to accurately repr
 
 
 
-## 🔑 Key Features
+### 🔑 Key Features
 
 * Well-structured relational database design
 * Entity Relationship (ER) Diagram
@@ -81,19 +81,19 @@ Each entity contains appropriate attributes and relationships to accurately repr
 
 
 
-## 📊 ER Diagram
+### 📊 ER Diagram
 
 The ER Diagram illustrates the relationships between Telegram entities and demonstrates how data flows across the system.
 
 
 
 
-## 🧩 Relational Schema
+### 🧩 Relational Schema
 
 The relational schema converts the conceptual ER model into relational tables with clearly defined Primary Keys and Foreign Keys.
 
 
-## 💡 Learning Outcomes
+### 💡 Learning Outcomes
 
 Through this project, you will understand:
 
@@ -105,7 +105,7 @@ Through this project, you will understand:
 * Real-world database modeling
 
 
-## 🚀 Future Enhancements
+### 🚀 Future Enhancements
 
 * Add SQL queries for CRUD operations.
 * Implement indexes for better performance.
