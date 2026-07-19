@@ -8,7 +8,7 @@ This project presents a relational database design for **Telegram**, one of the 
 
 The project demonstrates the process of transforming real-world application requirements into a normalized relational database using Entity Relationship (ER) modeling and relational schema design.
 
----
+
 
 ## 🎯 Objectives
 
@@ -19,7 +19,7 @@ The project demonstrates the process of transforming real-world application requ
 * Create an Entity Relationship (ER) Diagram.
 * Convert the ER model into a relational schema.
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -29,11 +29,11 @@ The project demonstrates the process of transforming real-world application requ
 * GitHub
 * Microsoft PowerPoint
 
----
+
 
 ## 📂 Project Structure
 
-```
+
 Telegram-Relational-Database-Case-Study/
 │
 ├── README.md
@@ -45,9 +45,9 @@ Telegram-Relational-Database-Case-Study/
 └── images/
     ├── telegram_logo.png
     └── cover_page.png
-```
 
----
+
+
 
 ## 🗄️ Database Entities
 
@@ -68,7 +68,7 @@ The database consists of the following major entities:
 
 Each entity contains appropriate attributes and relationships to accurately represent Telegram's functionality.
 
----
+
 
 ## 🔑 Key Features
 
@@ -79,23 +79,19 @@ Each entity contains appropriate attributes and relationships to accurately repr
 * SQL-compatible table structure
 * Scalable and maintainable design
 
----
+
 
 ## 📊 ER Diagram
 
 The ER Diagram illustrates the relationships between Telegram entities and demonstrates how data flows across the system.
 
-> *(Insert the ER Diagram image here.)*
 
----
+
 
 ## 🧩 Relational Schema
 
 The relational schema converts the conceptual ER model into relational tables with clearly defined Primary Keys and Foreign Keys.
 
-> *(Insert the Relational Schema image here.)*
-
----
 
 ## 💡 Learning Outcomes
 
@@ -108,7 +104,6 @@ Through this project, you will understand:
 * SQL schema design
 * Real-world database modeling
 
----
 
 ## 🚀 Future Enhancements
 
